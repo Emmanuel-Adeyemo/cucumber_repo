@@ -2,7 +2,7 @@
 
 ### General overview
 This project integrated a pipeline that combined high-dimensional genomic data with environmental timestamp data 
-to predict the weight of cucumber genotypes. The project used a Gaussian Process Regressor (GPR) as a proxy for GBLUP to capture a composite 
+to predict the weight of cucumber genotypes. The project used a Gaussian Process Regressor (GPR) model as a proxy for GBLUP to capture a composite 
 three-way kernel that combined genetic, environmental, and genotype by environmental interaction signals for cucumber weight.
 prediction.
 
