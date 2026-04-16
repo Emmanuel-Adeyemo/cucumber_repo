@@ -4,7 +4,7 @@ dependencies with virtual environments, and avoiding hardcoding with configurati
 This means that the same code can be run in development, testing, and production environments without
 issues.
 
-Here are some steps to reach full pipeline status:
+Here are some steps to reach a production pipeline status:
 1. Modularity: presently, I have one big main.py file that does everything from plotting
 to data cleaning to building models. If something goes wrong with the plotting part,
 the whole system collapses. A better logic is to isolate the plotting, preprocessing, training, and 
@@ -20,5 +20,5 @@ web dashboard to this bucket to visualize results.
 4. Event-driven approach: I can configure the pipeline so that a run is triggered by an event, for example, when new data drops
 into the low-tier storage bucket, it can be a signal to initiate the workflow. It is also important to continue to monitor
 metrics. E.g., an alert might be sent when the metric drifts below a particular threshold to signal further investigation.
-5. Use CI/CD for maintenance: code changes pushed to the repository automatically trigger a new docker build.
+5. CI/CD for maintenance: code changes pushed to the repository automatically trigger a new docker build.
 This allows for version control and ensures the workflow uses the latest code improvements.
