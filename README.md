@@ -26,7 +26,7 @@ Project Structure
 │   └── processed/              # encoded/refined features and metadata
 └── outputs/                    # result dir
     ├── plots/                  # initial EDA and prediction scatter plots
-    ├── metrics/                # metrics.json, contains metrics for CV and external test data
+    ├── metrics/                # metrics.json, contains metrics for CV and external test data. rMP:predictive ability, RMSE:root mean squared error, bias.
     └── models/                 # trained .pkl file
     
 ```
