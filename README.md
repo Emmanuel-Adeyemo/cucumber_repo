@@ -54,4 +54,8 @@ python main.py
 ```
 6. View results:
   - Metrics are saved in 'outputs/metrics'
+      - rMP (predictive ability): is the pearson correlation between the true and predicted scores. Higher values are desired.
+      - RMSE (root mean squared error): margin of error of the model, lower values are desired.
+      - Bias: this is the slope bias, and it describes model calibration. While a value close to 1 is desired (no bias), <1 is overestimating 
+        predicted values, and >1 is underestimating predicted values.
   - If enabled, plots are saved in 'outputs/plots'
