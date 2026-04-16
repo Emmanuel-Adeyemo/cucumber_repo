@@ -33,8 +33,8 @@ Project Structure
 **Set up instructions**
 1. Clone Repository
 ```bash
-https://github.com/Emmanuel-Adeyemo/cucumber_repo.git
-cd cuke_wgt_prediction
+git clone https://github.com/Emmanuel-Adeyemo/cucumber_repo.git
+cd cucumber_repo
 ```
 2. Set up virtual environment to manage dependencies
 ```bash
