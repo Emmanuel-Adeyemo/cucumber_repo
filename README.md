@@ -1,9 +1,9 @@
 ## Cucumber weight prediction pipeline
 
 ### General overview
-This project integrated a pipeline that combined high dimensional genomic data with environmental timestamp data 
-to predict the weight of cucumber genotypes. The project used a Guassian Process Regressor (GPR) as a proxy for GBLUP to capture a composite 
-three-way kernel that combined genetic, environmental, and genotype by environmental interaction signals for cucumber weight
+This project integrated a pipeline that combined high-dimensional genomic data with environmental timestamp data 
+to predict the weight of cucumber genotypes. The project used a Gaussian Process Regressor (GPR) as a proxy for GBLUP to capture a composite 
+three-way kernel that combined genetic, environmental, and genotype by environmental interaction signals for cucumber weight.
 prediction.
 
 
@@ -14,11 +14,12 @@ Project Structure
 ├── config.yaml                 # custom setup for pipeline configuration and specifications 
 ├── main.py                     # point of entry to pipeline
 ├── README.md                   # project overview, set up, and run instructions
+├── cloud_implementation.md     # how to improve pipeline into a cloud implementation
 ├── src/                        # source code dir
 ├── ├── eda.py                  # contains plotting logic for initial EDA and final model evaluation
-│   ├── processor.py            # handles quality checks, missing data, snps recoding and so on
-│   ├── feature_engineering.py  # engineers features and prepare data for modeling
-├── ├── modeling.py             # contains the modeling logic for GPR implementation. Builds and saves model
+│   ├── processor.py            # handles quality checks, missing data, snps recoding, and so on
+│   ├── feature_engineering.py  # engineers features and prepares data for modeling
+├── ├── modeling.py             # contains the modeling logic for GPR implementation. Builds and saves a model
 │   └── predict.py              # loads existing model to predict new individuals
 ├── data/                       # data directory 
 │   ├── raw/                    # raw data
@@ -36,13 +37,13 @@ Project Structure
 git clone https://github.com/Emmanuel-Adeyemo/cucumber_repo.git
 cd cucumber_repo
 ```
-2. Set up virtual environment to manage dependencies
+2. Set up a virtual environment to manage dependencies
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate # for mac
 .venv\Scripts\activate.bat # windows cmd
 ```
-3. Install the required packages using the requirement.txt file
+3. Install the required packages using the requirements.txt file
 ```bash
 pip install -r requirements.txt
 ```
