@@ -26,7 +26,7 @@ Project Structure
 │   └── processed/              # encoded/refined features and metadata
 └── outputs/                    # result dir
     ├── plots/                  # initial EDA and prediction scatter plots
-    ├── metrics/                # metrics.json 
+    ├── metrics/                # metrics.json, contains metrics for CV and external test data
     └── models/                 # trained .pkl file
     
 ```
