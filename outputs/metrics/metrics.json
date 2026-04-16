@@ -1,0 +1,21 @@
+{
+    "Cross_validation": {
+        "rMP": {
+            "mean": 0.69,
+            "std": 0.022
+        },
+        "RMSE": {
+            "mean": 0.27,
+            "std": 0.003
+        },
+        "Bias": {
+            "mean": 0.82,
+            "std": 0.032
+        }
+    },
+    "External_test": {
+        "rMP": 0.71,
+        "RMSE": 0.27,
+        "Bias": 0.86
+    }
+}
