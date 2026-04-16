@@ -1,0 +1,8002 @@
+{
+    "snp_0001": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0002": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0003": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0004": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0005": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0006": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0007": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0008": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0009": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0010": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0011": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0012": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0013": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0014": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0015": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0016": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0017": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0018": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0019": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0020": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0021": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0022": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0023": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0024": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0025": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0026": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0027": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0028": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0029": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0030": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0031": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0032": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0033": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0034": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0035": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0036": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0037": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0038": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0039": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0040": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0041": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0042": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0043": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0044": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0045": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0046": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0047": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0048": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0049": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0050": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0051": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0052": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0053": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0054": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0055": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0056": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0057": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0058": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0059": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0060": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0061": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0062": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0063": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0064": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0065": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0066": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0067": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0068": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0069": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0070": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0071": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0072": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0073": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0074": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0075": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0076": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0077": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0078": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0079": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0080": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0081": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0082": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0083": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0084": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0085": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0086": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0087": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0088": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0089": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0090": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0091": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0092": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0093": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0094": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0095": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0096": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0097": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0098": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0099": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0100": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0101": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0102": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0103": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0104": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0105": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0106": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0107": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0108": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0109": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0110": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0111": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0112": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0113": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0114": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0115": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0116": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0117": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0118": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0119": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0120": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0121": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0122": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0123": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0124": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0125": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0126": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0127": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0128": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0129": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0130": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0131": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0132": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0133": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0134": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0135": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0136": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0137": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0138": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0139": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0140": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0141": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0142": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0143": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0144": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0145": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0146": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0147": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0148": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0149": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0150": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0151": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0152": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0153": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0154": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0155": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0156": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0157": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0158": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0159": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0160": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0161": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0162": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0163": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0164": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0165": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0166": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0167": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0168": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0169": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0170": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0171": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0172": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0173": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0174": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0175": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0176": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0177": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0178": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0179": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0180": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0181": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0182": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0183": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0184": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0185": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0186": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0187": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0188": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0189": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0190": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0191": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0192": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0193": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0194": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0195": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0196": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0197": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0198": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0199": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0200": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0201": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0202": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0203": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0204": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0205": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0206": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0207": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0208": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0209": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0210": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0211": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0212": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0213": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0214": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0215": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0216": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0217": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0218": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0219": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0220": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0221": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0222": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0223": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0224": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0225": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0226": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0227": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0228": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0229": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0230": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0231": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0232": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0233": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0234": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0235": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0236": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0237": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0238": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0239": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0240": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0241": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0242": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0243": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0244": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0245": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0246": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0247": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0248": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0249": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0250": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0251": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0252": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0253": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0254": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0255": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0256": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0257": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0258": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0259": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0260": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0261": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0262": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0263": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0264": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0265": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0266": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0267": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0268": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0269": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0270": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0271": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0272": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0273": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0274": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0275": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0276": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0277": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0278": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0279": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0280": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0281": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0282": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0283": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0284": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0285": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0286": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0287": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0288": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0289": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0290": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0291": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0292": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0293": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0294": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0295": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0296": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0297": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0298": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0299": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0300": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0301": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0302": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0303": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0304": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0305": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0306": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0307": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0308": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0309": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0310": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0311": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0312": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0313": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0314": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0315": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0316": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0317": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0318": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0319": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0320": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0321": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0322": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0323": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0324": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0325": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0326": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0327": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0328": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0329": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0330": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0331": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0332": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0333": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0334": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0335": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0336": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0337": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0338": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0339": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0340": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0341": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0342": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0343": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0344": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0345": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0346": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0347": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0348": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0349": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0350": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0351": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0352": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0353": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0354": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0355": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0356": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0357": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0358": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0359": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0360": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0361": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0362": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0363": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0364": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0365": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0366": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0367": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0368": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0369": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0370": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0371": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0372": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0373": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0374": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0375": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0376": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0377": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0378": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0379": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0380": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0381": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0382": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0383": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0384": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0385": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0386": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0387": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0388": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0389": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0390": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0391": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0392": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0393": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0394": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0395": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0396": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0397": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0398": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0399": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0400": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0401": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0402": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0403": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0404": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0405": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0406": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0407": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0408": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0409": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0410": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0411": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0412": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0413": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0414": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0415": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0416": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0417": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0418": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0419": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0420": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0421": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0422": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0423": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0424": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0425": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0426": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0427": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0428": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0429": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0430": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0431": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0432": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0433": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0434": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0435": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0436": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0437": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0438": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0439": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0440": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0441": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0442": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0443": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0444": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0445": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0446": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0447": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0448": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0449": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0450": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0451": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0452": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0453": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0454": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0455": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0456": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0457": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0458": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0459": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0460": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0461": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0462": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0463": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0464": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0465": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0466": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0467": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0468": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0469": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0470": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0471": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0472": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0473": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0474": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0475": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0476": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0477": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0478": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0479": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0480": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0481": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0482": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0483": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0484": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0485": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0486": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0487": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0488": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0489": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0490": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0491": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0492": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0493": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0494": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0495": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0496": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0497": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0498": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0499": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0500": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0501": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0502": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0503": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0504": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0505": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0506": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0507": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0508": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0509": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0510": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0511": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0512": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0513": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0514": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0515": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0516": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0517": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0518": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0519": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0520": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0521": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0522": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0523": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0524": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0525": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0526": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0527": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0528": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0529": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0530": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0531": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0532": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0533": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0534": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0535": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0536": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0537": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0538": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0539": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0540": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0541": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0542": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0543": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0544": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0545": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0546": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0547": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0548": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0549": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0550": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0551": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0552": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0553": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0554": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0555": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0556": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0557": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0558": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0559": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0560": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0561": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0562": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0563": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0564": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0565": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0566": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0567": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0568": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0569": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0570": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0571": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0572": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0573": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0574": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0575": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0576": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0577": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0578": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0579": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0580": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0581": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0582": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0583": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0584": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0585": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0586": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0587": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0588": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0589": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0590": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0591": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0592": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0593": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0594": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0595": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0596": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0597": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0598": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0599": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0600": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0601": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0602": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0603": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0604": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0605": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0606": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0607": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0608": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0609": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0610": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0611": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0612": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0613": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0614": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0615": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0616": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0617": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0618": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0619": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0620": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0621": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0622": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0623": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0624": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0625": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0626": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0627": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0628": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0629": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0630": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0631": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0632": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0633": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0634": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0635": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0636": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0637": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0638": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0639": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0640": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0641": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0642": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0643": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0644": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0645": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0646": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0647": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0648": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0649": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0650": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0651": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0652": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0653": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0654": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0655": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0656": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0657": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0658": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0659": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0660": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0661": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0662": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0663": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0664": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0665": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0666": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0667": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0668": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0669": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0670": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0671": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0672": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0673": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0674": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0675": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0676": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0677": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0678": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0679": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0680": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0681": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0682": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0683": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0684": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0685": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0686": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0687": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0688": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0689": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0690": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0691": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0692": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0693": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0694": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0695": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0696": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0697": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0698": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0699": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0700": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0701": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0702": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0703": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0704": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0705": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0706": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0707": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0708": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0709": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0710": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0711": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0712": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0713": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0714": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0715": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0716": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0717": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0718": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0719": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0720": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0721": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0722": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0723": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0724": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0725": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0726": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0727": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0728": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0729": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0730": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0731": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0732": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0733": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0734": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0735": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0736": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0737": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0738": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0739": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0740": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0741": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0742": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0743": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0744": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0745": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0746": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0747": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0748": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0749": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0750": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0751": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0752": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0753": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0754": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0755": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0756": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0757": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0758": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0759": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0760": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0761": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0762": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0763": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0764": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0765": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0766": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0767": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0768": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0769": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0770": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0771": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0772": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0773": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0774": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0775": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0776": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0777": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0778": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0779": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0780": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0781": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0782": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0783": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0784": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0785": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0786": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0787": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0788": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0789": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0790": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0791": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0792": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0793": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0794": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0795": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0796": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0797": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0798": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0799": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0800": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0801": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0802": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0803": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0804": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0805": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0806": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0807": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0808": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0809": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0810": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0811": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0812": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0813": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0814": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0815": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0816": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0817": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0818": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0819": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0820": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0821": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0822": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0823": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0824": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0825": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0826": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0827": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0828": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0829": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0830": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0831": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0832": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0833": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0834": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0835": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0836": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0837": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0838": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0839": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0840": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0841": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0842": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0843": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0844": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0845": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0846": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0847": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0848": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0849": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0850": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0851": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0852": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0853": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0854": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0855": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0856": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0857": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0858": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0859": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0860": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0861": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0862": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0863": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0864": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0865": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0866": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0867": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0868": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0869": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0870": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0871": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0872": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0873": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0874": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0875": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0876": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0877": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0878": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0879": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0880": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0881": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0882": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0883": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0884": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0885": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0886": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0887": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0888": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0889": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0890": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0891": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0892": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0893": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0894": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0895": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0896": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0897": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0898": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0899": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0900": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0901": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0902": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0903": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0904": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0905": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0906": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0907": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0908": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0909": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0910": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0911": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0912": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0913": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0914": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0915": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0916": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0917": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0918": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0919": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0920": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0921": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0922": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0923": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0924": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0925": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0926": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0927": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0928": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0929": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0930": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0931": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0932": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0933": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0934": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0935": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0936": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0937": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0938": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0939": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0940": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0941": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0942": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0943": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0944": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0945": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0946": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0947": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0948": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0949": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0950": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0951": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0952": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0953": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0954": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0955": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0956": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0957": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0958": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0959": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0960": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0961": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0962": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0963": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0964": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0965": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0966": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0967": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0968": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0969": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0970": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0971": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0972": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0973": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0974": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0975": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0976": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0977": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0978": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0979": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0980": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0981": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0982": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0983": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0984": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0985": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0986": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0987": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0988": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0989": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0990": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0991": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0992": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0993": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0994": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0995": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0996": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0997": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0998": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_0999": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    },
+    "snp_1000": {
+        "recode_map": {
+            "AA": 0,
+            "AG": 1,
+            "GG": 2
+        },
+        "impute_value": 0
+    }
+}
