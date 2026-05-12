@@ -2,8 +2,8 @@
 
 ### General overview
 This project integrated a pipeline that combined high-dimensional genomic data with environmental timestamp data 
-to predict the weight of cucumber genotypes. The project used a Gaussian Process Regression (GPR) model as a proxy for GBLUP to capture a composite 
-three-way kernel that combined genetic, environmental, and genotype by environmental interaction signals for cucumber weight
+to predict the weight of wheat genotypes. The project used a Gaussian Process Regression (GPR) model as a proxy for GBLUP to capture a composite 
+three-way kernel that combined genetic, environmental, and genotype by environmental interaction signals for wheat yield
 prediction.
 
 
@@ -14,7 +14,6 @@ Project Structure
 ├── config.yaml                 # custom setup for pipeline configuration and specifications 
 ├── main.py                     # point of entry to pipeline
 ├── README.md                   # project overview, set up, and run instructions
-├── cloud_implementation.md     # how to improve pipeline into a cloud implementation
 ├── src/                        # source code dir
 ├── ├── eda.py                  # contains plotting logic for initial EDA and final model evaluation
 │   ├── processor.py            # handles quality checks, missing data, snps recoding, and so on
@@ -27,15 +26,15 @@ Project Structure
 └── outputs/                    # result dir
     ├── plots/                  # initial EDA and prediction scatter plots
     ├── metrics/                # metrics.json, contains metrics for CV and external test data. rMP:predictive ability, RMSE:root mean squared error, bias.
-    └── models/                 # trained .pkl file
+    └── models/                 # trained model .pkl file
     
 ```
 
 **Set up instructions**
 1. Clone Repository
 ```bash
-git clone https://github.com/Emmanuel-Adeyemo/cucumber_repo.git
-cd cucumber_repo
+git clone https://github.com/Emmanuel-Adeyemo/production-ready-ml-pipeline.git
+cd production-ready-ml-pipeline
 ```
 2. Set up a virtual environment to manage dependencies
 ```bash
