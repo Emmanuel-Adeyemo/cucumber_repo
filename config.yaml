@@ -1,5 +1,5 @@
 inputs:
-  raw_data_path: 'data/raw/cucumber_yield_raw_genotypes.csv'
+  raw_data_path: 'data/raw/yield_raw_genotypes.csv'
   processed_data_dir: 'data/processed/'
 
 outputs:
@@ -15,7 +15,7 @@ outputs:
   plots_dir: 'outputs/plots/'
 
 data_specs:
-  target: 'cucumber_weight'
+  target: 'yield'
   index: 'sample_id'
   target_bounds: [0, 50] # drop out sure fails
   nzv_threshold: 0.001
@@ -65,7 +65,7 @@ env_preprocessing:
   env_bounds:
     temp: [5, 50] # most plants would be damaged outside the bounds
     light_hours: [0, 24] # only 24hrs/day
-    humidity: [0, 100] # I assume it is relative humidity (unit: percentage)
+    humidity: [0, 100] # relative humidity (unit: percentage)
 #    co2_ppm: []
-    irrigation_ml: [0, 1000] # no negative irrigation, plqnt most likely submerged in water above 1000?
-
+    irrigation_ml: [0, 1000] # no negative irrigation, plant most likely submerged in water above 1000?
+    irrigation_ml: [0, 1000] # no negative irrigation, plant most likely submerged in water above 1000?
